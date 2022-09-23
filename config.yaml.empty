@@ -1,0 +1,6 @@
+# Arquivo de configuração, deve ser preenchido para conexão com banco MongoDB
+mongodb:
+  host: <host>
+  user: <user>
+  passwd: <password>
+  db: <banco>
