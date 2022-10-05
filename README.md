@@ -14,6 +14,8 @@ Objetivo do Pipeline:
 3. Coletar suas decisões de 1ª instancia
 4. Tratar os dados das decisões
 5. Consolidar as informações em uma base analítica
-6. Atualizar o Arquivo de Dashboards (PowerBI)
+6. Atualizar o Arquivo de Dashboards [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiODljMjEzNzEtOGIzOC00YTA1LTlhODctODBlYjQyMDE3NGY4IiwidCI6ImQ1NGFiZGU0LTVlZDYtNDI0OC1iODAzLTNkN2JkYWI0ZjYwOSIsImMiOjR9)
+
+
 
 
